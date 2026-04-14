@@ -4,11 +4,27 @@
   "supporters": [
     {
       "display_name": "recollection",
-      "type": "grave"
+      "type": "phantom",
+      "founding": false,
+      "months_supported": 6
     },
     {
       "display_name": "arc",
-      "type": "standard"
+      "type": "butterfly",
+      "founding": true,
+      "months_supported": 5
+    },
+        {
+      "display_name": "aaaa",
+      "type": "supporter",
+      "founding": false,
+      "months_supported": 4
+    },
+    {
+      "display_name": "bbbb",
+      "type": "supporter",
+      "founding": false,
+      "months_supported": 3
     }
   ]
 }

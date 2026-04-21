@@ -5,55 +5,55 @@
     {
       "display_name": "recollection",
       "type": "phantom",
-      "founding": false,
+      "founding": true,
       "months_supported": 6
     },
     {
       "display_name": "recollection",
       "type": "phantom",
-      "founding": false,
+      "founding": true,
       "months_supported": 6
     },
     {
       "display_name": "recollection",
       "type": "phantom",
-      "founding": false,
+      "founding": true,
       "months_supported": 6
     },
     {
       "display_name": "recollection",
       "type": "phantom",
-      "founding": false,
+      "founding": true,
       "months_supported": 6
     },
     {
       "display_name": "recollection",
       "type": "phantom",
-      "founding": false,
+      "founding": true,
       "months_supported": 6
     },
     {
       "display_name": "recollection",
       "type": "phantom",
-      "founding": false,
+      "founding": true,
       "months_supported": 6
     },
     {
       "display_name": "recollection",
       "type": "phantom",
-      "founding": false,
+      "founding": true,
       "months_supported": 6
     },
     {
       "display_name": "recollection",
       "type": "phantom",
-      "founding": false,
+      "founding": true,
       "months_supported": 6
     },
     {
       "display_name": "recollection",
       "type": "phantom",
-      "founding": false,
+      "founding": true,
       "months_supported": 6
     },
     {
@@ -162,6 +162,66 @@
       "display_name": "arc",
       "type": "butterfly",
       "founding": true,
+      "months_supported": 5
+    },
+    {
+      "display_name": "arc",
+      "type": "butterfly",
+      "founding": true,
+      "months_supported": 5
+    },
+    {
+      "display_name": "arc",
+      "type": "butterfly",
+      "founding": false,
+      "months_supported": 5
+    },
+    {
+      "display_name": "arc",
+      "type": "butterfly",
+      "founding": false,
+      "months_supported": 5
+    },
+    {
+      "display_name": "arc",
+      "type": "butterfly",
+      "founding": false,
+      "months_supported": 5
+    },
+    {
+      "display_name": "arc",
+      "type": "butterfly",
+      "founding": false,
+      "months_supported": 5
+    },
+    {
+      "display_name": "arc",
+      "type": "butterfly",
+      "founding": false,
+      "months_supported": 5
+    },
+    {
+      "display_name": "arc",
+      "type": "butterfly",
+      "founding": false,
+      "months_supported": 5
+    },
+    {
+      "display_name": "arc",
+      "type": "butterfly",
+      "founding": false,
+      "months_supported": 5
+    },
+    {
+      "display_name": "arc",
+      "type": "butterfly",
+      "founding": false,
+      "months_supported": 5
+    },
+    {
+      "display_name": "arc",
+      "type": "butterfly",
+      "founding": false,
       "months_supported": 5
     },
     {
